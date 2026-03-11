@@ -5,6 +5,8 @@ This organization collects exercise repositories for [Blockly2Java](b2j.valentin
 Each exercise includes a template, a solution, and a test repository. 
 The tests are structured to work with autograding systems like [Artemis](https://artemis.tum.de/)
 
+As long as not stated differently, all work in Repositories in this organization is protected by [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 
 ### Current list of exercises
 
