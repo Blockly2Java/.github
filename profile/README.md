@@ -12,7 +12,7 @@ As long as not stated differently, all work in Repositories in this organization
 
 | Topic | Template | Solution | Tests |
 | -- | -- | -- | -- |
-| | | | |
+| Empty template | [empty_template](https://github.com/Blockly2Java/empty_template) | [empty_solution](https://github.com/Blockly2Java/empty_solution) | [empty_tests](https://github.com/Blockly2Java/empty_tests) |
 
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/06be27f3-d1c1-4aea-95fe-5ec0eea83ba3" alt="Alt text" width="500" /> </p>
