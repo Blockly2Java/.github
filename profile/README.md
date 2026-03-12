@@ -12,8 +12,8 @@ As long as not stated differently, all work in Repositories in this organization
 
 | Topic | Template | Solution | Tests |
 | -- | -- | -- | -- |
-| Empty template | [empty_template](https://github.com/Blockly2Java/empty_template) | [empty_solution](https://github.com/Blockly2Java/empty_solution) | [empty_tests](https://github.com/Blockly2Java/empty_tests) |
-| Inf10 A03 (Parameter + return) | [empty_template](https://github.com/Blockly2Java/Inf10_A03_template) | [empty_solution](https://github.com/Blockly2Java/Inf10_A03_solution) | [empty_tests](https://github.com/Blockly2Java/Inf10_A03_tests) |
+| Empty template | [template](https://github.com/Blockly2Java/empty_template) | [solution](https://github.com/Blockly2Java/empty_solution) | [tests](https://github.com/Blockly2Java/empty_tests) |
+| Inf10 A03 (Parameter + return) | [template](https://github.com/Blockly2Java/Inf10_A03_template) | [solution](https://github.com/Blockly2Java/Inf10_A03_solution) | [tests](https://github.com/Blockly2Java/Inf10_A03_tests) |
 
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/06be27f3-d1c1-4aea-95fe-5ec0eea83ba3" alt="Alt text" width="500" /> </p>
