@@ -10,10 +10,47 @@ As long as not stated differently, all work in Repositories in this organization
 
 ### Current list of exercises
 
-| Topic | Parent | Template | Solution | Tests |
-| -- | -- | -- | -- | -- |
-| Empty template | [parent](https://github.com/Blockly2Java/empty) | [template](https://github.com/Blockly2Java/empty_template) | [solution](https://github.com/Blockly2Java/empty_solution) | [tests](https://github.com/Blockly2Java/empty_tests) 
-| Inf10 A03 (Parameter + return) | [parent](https://github.com/Blockly2Java/Inf10_A03) | [template](https://github.com/Blockly2Java/Inf10_A03_template) | [solution](https://github.com/Blockly2Java/Inf10_A03_solution) | [tests](https://github.com/Blockly2Java/Inf10_A03_tests) |
-| Inf10 A04 (Loops) | [parent](https://github.com/Blockly2Java/Inf10_A04) | [template](https://github.com/Blockly2Java/Inf10_A04_template) | [solution](https://github.com/Blockly2Java/Inf10_A04_solution) | [tests](https://github.com/Blockly2Java/Inf10_A04_tests) |
+<table>
+  <thead>
+    <tr>
+      <th>Level</th>
+      <th>Title</th>
+      <th>Topic</th>
+      <th>Parent</th>
+      <th>Template</th>
+      <th>Solution</th>
+      <th>Tests</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>-</td>
+      <td>Empty</td>
+      <td>Template</td>
+      <td><a href="https://github.com/Blockly2Java/empty">parent</a></td>
+      <td><a href="https://github.com/Blockly2Java/empty_template">template</a></td>
+      <td><a href="https://github.com/Blockly2Java/empty_solution">solution</a></td>
+      <td><a href="https://github.com/Blockly2Java/empty_tests">tests</a></td>
+    </tr>
+    <tr>
+      <td>Inf10</td>
+      <td>Taschenrechner</td>
+      <td>Parameter+return</td>
+      <td><a href="https://github.com/Blockly2Java/Inf10_A03">parent</a></td>
+      <td><a href="https://github.com/Blockly2Java/Inf10_A03_template">template</a></td>
+      <td><a href="https://github.com/Blockly2Java/Inf10_A03_solution">solution</a></td>
+      <td><a href="https://github.com/Blockly2Java/Inf10_A03_tests">tests</a></td>
+    </tr>
+    <tr>
+      <td>Inf10</td>
+      <td>Schleifen-Training</td>
+      <td>Loops</td>
+      <td><a href="https://github.com/Blockly2Java/Inf10_A04">parent</a></td>
+      <td><a href="https://github.com/Blockly2Java/Inf10_A04_template">template</a></td>
+      <td><a href="https://github.com/Blockly2Java/Inf10_A04_solution">solution</a></td>
+      <td><a href="https://github.com/Blockly2Java/Inf10_A04_tests">tests</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/faad7e00-be91-49fb-9c7e-b1ac3c807e6d" alt="Alt text" width="500" /> </p>
