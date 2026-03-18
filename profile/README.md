@@ -33,7 +33,7 @@ As long as not stated differently, all work in Repositories in this organization
       <td><a href="https://github.com/Blockly2Java/empty_tests">tests</a></td>
     </tr>
     <tr>
-      <td>Inf09</td>
+      <td>Inf09 / Inf10-W</td>
       <td>Taschenrechner</td>
       <td>Parameter+return</td>
       <td><a href="https://github.com/Blockly2Java/Inf10_A03">parent</a></td>
@@ -42,7 +42,7 @@ As long as not stated differently, all work in Repositories in this organization
       <td><a href="https://github.com/Blockly2Java/Inf10_A03_tests">tests</a></td>
     </tr>
     <tr>
-      <td>Inf09</td>
+      <td>Inf09 / Inf10-W</td>
       <td>Schleifen-Training</td>
       <td>Loops</td>
       <td><a href="https://github.com/Blockly2Java/Inf10_A04">parent</a></td>
