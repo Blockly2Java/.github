@@ -36,19 +36,28 @@ As long as not stated differently, all work in Repositories in this organization
       <td>Inf09 / Inf10-W</td>
       <td>Taschenrechner</td>
       <td>Parameter+return</td>
-      <td><a href="https://github.com/Blockly2Java/Inf10_A03">parent</a></td>
-      <td><a href="https://github.com/Blockly2Java/Inf10_A03_template">template</a></td>
-      <td><a href="https://github.com/Blockly2Java/Inf10_A03_solution">solution</a></td>
-      <td><a href="https://github.com/Blockly2Java/Inf10_A03_tests">tests</a></td>
+      <td><a href="https://github.com/Blockly2Java/Taschenrechner">parent</a></td>
+      <td><a href="https://github.com/Blockly2Java/Taschenrechner_template">template</a></td>
+      <td><a href="https://github.com/Blockly2Java/Taschenrechner_solution">solution</a></td>
+      <td><a href="https://github.com/Blockly2Java/Taschenrechner_tests">tests</a></td>
     </tr>
     <tr>
       <td>Inf09 / Inf10-W</td>
       <td>Schleifen-Training</td>
       <td>Loops</td>
-      <td><a href="https://github.com/Blockly2Java/Inf10_A04">parent</a></td>
-      <td><a href="https://github.com/Blockly2Java/Inf10_A04_template">template</a></td>
-      <td><a href="https://github.com/Blockly2Java/Inf10_A04_solution">solution</a></td>
-      <td><a href="https://github.com/Blockly2Java/Inf10_A04_tests">tests</a></td>
+      <td><a href="https://github.com/Blockly2Java/Schleifen-Training">parent</a></td>
+      <td><a href="https://github.com/Blockly2Java/Schleifen-Training_template">template</a></td>
+      <td><a href="https://github.com/Blockly2Java/Schleifen-Training_solution">solution</a></td>
+      <td><a href="https://github.com/Blockly2Java/Schleifen-Training_tests">tests</a></td>
+    </tr>
+    <tr>
+      <td>Inf09 / Inf10-W</td>
+      <td>IfElse-Training-Training</td>
+      <td>Conditions</td>
+      <td><a href="https://github.com/Blockly2Java/IfElse-Training">parent</a></td>
+      <td><a href="https://github.com/Blockly2Java/IfElse-Training_template">template</a></td>
+      <td><a href="https://github.com/Blockly2Java/IfElse-Training_solution">solution</a></td>
+      <td><a href="https://github.com/Blockly2Java/IfElse-Training_tests">tests</a></td>
     </tr>
   </tbody>
 </table>
