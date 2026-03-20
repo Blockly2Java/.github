@@ -2,8 +2,12 @@
 
 This organization collects exercise repositories for [Blockly2Java](b2j.valentin-herrmann.com) ([Code on Github](https://github.com/ValentinHerrmann/Blockly2Java)).
 
-Each exercise includes a template, a solution, and a test repository. The parent repo collects all other as submodules for easy cloning and has a bash script to commit and push everything.
-The tests are structured to work with autograding systems like [Artemis](https://artemis.tum.de/). When working outside Blockly2Java, some exercises might require auxiliary repositories to be checked out into `assignment/src` (`assignment` is the root folder of the student's code) to fulfill dependencies, which are usually provided by the OnlineIDE (e.g., graphics, text input, etc.).
+Each exercise includes a 
+- **template** (including toolbox configuration)
+- **solution**
+- **test repository** (structured to work with [Artemis](https://artemis.tum.de))
+- optional: **auxiliary dependency** repository (e.g., for OnlineIDE graphics or input dependencies) to be cloned into the `src` folder of the student submission.
+- parent repository with complete Artemis exercise for fast exercise import (and other repos as submodules for easy cloning)
 
 As long as not stated differently, all work in Repositories in this organization is protected by [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
