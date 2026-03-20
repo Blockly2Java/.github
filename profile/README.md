@@ -20,7 +20,7 @@ As long as not stated differently, all work in Repositories in this organization
       <th>Template</th>
       <th>Solution</th>
       <th>Tests</th>
-      <th>Auxiliary Dependency</th>
+      <th>Aux. Depend.</th>
     </tr>
   </thead>
   <tbody>
