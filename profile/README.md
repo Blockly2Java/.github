@@ -3,7 +3,7 @@
 This organization collects exercise repositories for [Blockly2Java](b2j.valentin-herrmann.com) ([Code on Github](https://github.com/ValentinHerrmann/Blockly2Java)).
 
 Each exercise includes a template, a solution, and a test repository. The parent repo collects all other as submodules for easy cloning and has a bash script to commit and push everything.
-The tests are structured to work with autograding systems like [Artemis](https://artemis.tum.de/)
+The tests are structured to work with autograding systems like [Artemis](https://artemis.tum.de/). When working outside Blockly2Java, some exercises might require auxiliary repositories to be checked out into `assignment/src` (`assignment` is the root folder of the student's code) to fulfill dependencies, which are usually provided by the OnlineIDE (e.g., graphics, text input, etc.).
 
 As long as not stated differently, all work in Repositories in this organization is protected by [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
@@ -20,6 +20,7 @@ As long as not stated differently, all work in Repositories in this organization
       <th>Template</th>
       <th>Solution</th>
       <th>Tests</th>
+      <th>Auxiliary Dependency</th>
     </tr>
   </thead>
   <tbody>
@@ -31,6 +32,7 @@ As long as not stated differently, all work in Repositories in this organization
       <td><a href="https://github.com/Blockly2Java/empty_template">template</a></td>
       <td><a href="https://github.com/Blockly2Java/empty_solution">solution</a></td>
       <td><a href="https://github.com/Blockly2Java/empty_tests">tests</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>Inf09 / Inf10-W</td>
@@ -40,6 +42,7 @@ As long as not stated differently, all work in Repositories in this organization
       <td><a href="https://github.com/Blockly2Java/Taschenrechner_template">template</a></td>
       <td><a href="https://github.com/Blockly2Java/Taschenrechner_solution">solution</a></td>
       <td><a href="https://github.com/Blockly2Java/Taschenrechner_tests">tests</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>Inf09 / Inf10-W</td>
@@ -49,6 +52,7 @@ As long as not stated differently, all work in Repositories in this organization
       <td><a href="https://github.com/Blockly2Java/Schleifen-Training_template">template</a></td>
       <td><a href="https://github.com/Blockly2Java/Schleifen-Training_solution">solution</a></td>
       <td><a href="https://github.com/Blockly2Java/Schleifen-Training_tests">tests</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>Inf09 / Inf10-W</td>
@@ -58,6 +62,7 @@ As long as not stated differently, all work in Repositories in this organization
       <td><a href="https://github.com/Blockly2Java/IfElse-Training_template">template</a></td>
       <td><a href="https://github.com/Blockly2Java/IfElse-Training_solution">solution</a></td>
       <td><a href="https://github.com/Blockly2Java/IfElse-Training_tests">tests</a></td>
+      <td><a href="https://github.com/Blockly2Java/IfElse-Training_aux">aux</a></td>
     </tr>
   </tbody>
 </table>
