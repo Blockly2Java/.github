@@ -1,6 +1,6 @@
 # Blockly2Java Exercise Templates
 
-This organization collects exercise repositories for [Blockly2Java](b2j.valentin-herrmann.com) ([Code on Github](https://github.com/ValentinHerrmann/Blockly2Java)).
+This organization collects exercise repositories for [Blockly2Java](HTTPS://b2j.valentin-herrmann.com) ([Code on Github](https://github.com/ValentinHerrmann/Blockly2Java)).
 
 Each exercise includes a 
 - **template** (including toolbox configuration)
