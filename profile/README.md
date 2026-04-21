@@ -68,6 +68,16 @@ As long as not stated differently, all work in Repositories in this organization
       <td><a href="https://github.com/Blockly2Java/IfElse-Training_tests">tests</a></td>
       <td><a href="https://github.com/Blockly2Java/IfElse-Training_aux">aux</a></td>
     </tr>
+    <tr>
+      <td>Inf10</td>
+      <td>Smiley</td>
+      <td>Reference Attributes</td>
+      <td><a href="https://github.com/Blockly2Java/Smiley">parent</a></td>
+      <td><a href="https://github.com/Blockly2Java/Smiley_template">template</a></td>
+      <td><a href="https://github.com/Blockly2Java/Smiley_solution">solution</a></td>
+      <td><a href="https://github.com/Blockly2Java/Smiley_tests">tests</a></td>
+      <td><a href="https://github.com/Blockly2Java/Smiley_aux">aux</a></td>
+    </tr>
   </tbody>
 </table>
 
