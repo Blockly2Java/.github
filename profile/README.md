@@ -67,7 +67,7 @@ As long as not stated differently, all work in Repositories in this organization
       <td><a href="https://github.com/Blockly2Java/IfElse-Training_template">template</a></td>
       <td><a href="https://github.com/Blockly2Java/IfElse-Training_solution">solution</a></td>
       <td><a href="https://github.com/Blockly2Java/IfElse-Training_tests">tests</a></td>
-      <td><a href="https://github.com/Blockly2Java/IfElse-Training_aux">aux</a></td>
+      <td><a href="https://github.com/Blockly2Java/IfElse-Training_aux">input aux</a></td>
     </tr>
     <tr>
       <td>Inf10</td>
@@ -77,7 +77,17 @@ As long as not stated differently, all work in Repositories in this organization
       <td><a href="https://github.com/Blockly2Java/Smiley_template">template</a></td>
       <td><a href="https://github.com/Blockly2Java/Smiley_solution">solution</a></td>
       <td><a href="https://github.com/Blockly2Java/Smiley_tests">tests</a></td>
-      <td><a href="https://github.com/Blockly2Java/aux">aux</a></td>
+      <td><a href="https://github.com/Blockly2Java/B2J_Graphics_aux">graphics aux</a></td>
+    </tr>
+    <tr>
+      <td>Inf10</td>
+      <td>Gassi</td>
+      <td>Reference Attributes</td>
+      <td><a href="https://github.com/Blockly2Java/Gassi">parent</a></td>
+      <td><a href="https://github.com/Blockly2Java/Gassi_template">template</a></td>
+      <td><a href="https://github.com/Blockly2Java/Gassi_solution">solution</a></td>
+      <td><a href="https://github.com/Blockly2Java/Gassi_tests">tests</a></td>
+      <td><a href="https://github.com/Blockly2Java/B2J_Graphics_aux">graphics aux</a></td>
     </tr>
   </tbody>
 </table>
