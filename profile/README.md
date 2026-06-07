@@ -1,5 +1,7 @@
 # Blockly2Java Exercise Templates
 
+[![licensebadge](https://img.shields.io/badge/license-MIT-blue)](https://choosealicense.com/licenses/mit/)
+
 This organization collects exercise repositories for [Blockly2Java](HTTPS://b2j.valentin-herrmann.com) ([Code on Github](https://github.com/ValentinHerrmann/Blockly2Java)).
 
 Each exercise includes a 
@@ -9,7 +11,8 @@ Each exercise includes a
 - optional: **auxiliary dependency** repository (e.g., for OnlineIDE graphics or input dependencies) to be cloned into the `src` folder of the student submission.
 - parent repository with complete Artemis exercise for fast exercise import (and other repos as submodules for easy cloning)
 
-As long as not stated differently, all work in Repositories in this organization is protected by [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+
 
 
 ### Current list of exercises
