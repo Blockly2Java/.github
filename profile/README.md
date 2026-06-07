@@ -120,8 +120,7 @@ Each exercise includes a
       <td><a href="https://github.com/Blockly2Java/ArrayBootcamp">parent</a></td>
       <td><a href="https://github.com/Blockly2Java/ArrayBootcamp_template">template</a></td>
       <td><a href="https://github.com/Blockly2Java/ArrayBootcamp_solution">solution</a></td>
-      <!-- <td><a href="https://github.com/Blockly2Java/CoinCollector_tests">tests</a></td> -->
-      <td></td>
+      <td><a href="https://github.com/Blockly2Java/ArrayBootcamp_tests">tests</a></td>
       <td></td>
     </tr>
   </tbody>
