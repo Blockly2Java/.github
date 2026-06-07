@@ -8,8 +8,7 @@ Each exercise includes a
 - **template** (including toolbox configuration)
 - **solution**
 - **test repository** (structured to work with [Artemis](https://artemis.tum.de))
-- optional: **auxiliary dependency** repository (e.g., for OnlineIDE graphics or input dependencies) to be cloned into the `src` folder of the student submission.
-- parent repository with complete Artemis exercise for fast exercise import (and other repos as submodules for easy cloning)
+- parent repository with complete Artemis exercise for fast exercise import with local setup script
 
 
 
@@ -33,13 +32,13 @@ Each exercise includes a
   <tbody>
     <tr>
       <td>-</td>
-      <td>Empty</td>
       <td>Template</td>
-      <td><a href="https://github.com/Blockly2Java/empty">parent</a></td>
-      <td><a href="https://github.com/Blockly2Java/empty_template">template</a></td>
-      <td><a href="https://github.com/Blockly2Java/empty_solution">solution</a></td>
-      <td><a href="https://github.com/Blockly2Java/empty_tests">tests</a></td>
-      <td><a href="https://github.com/Blockly2Java/aux">aux</a></td>
+      <td></td>
+      <td><a href="https://github.com/Blockly2Java/Template">parent</a></td>
+      <td><a href="https://github.com/Blockly2Java/Template_template">template</a></td>
+      <td><a href="https://github.com/Blockly2Java/Template_solution">solution</a></td>
+      <td><a href="https://github.com/Blockly2Java/Template_tests">tests</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -80,7 +79,7 @@ Each exercise includes a
       <td><a href="https://github.com/Blockly2Java/Smiley_template">template</a></td>
       <td><a href="https://github.com/Blockly2Java/Smiley_solution">solution</a></td>
       <td><a href="https://github.com/Blockly2Java/Smiley_tests">tests</a></td>
-      <td><a href="https://github.com/Blockly2Java/B2J_Graphics_aux">graphics aux</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>Inf10</td>
@@ -90,7 +89,29 @@ Each exercise includes a
       <td><a href="https://github.com/Blockly2Java/Gassi_template">template</a></td>
       <td><a href="https://github.com/Blockly2Java/Gassi_solution">solution</a></td>
       <td><a href="https://github.com/Blockly2Java/Gassi_tests">tests</a></td>
-      <td><a href="https://github.com/Blockly2Java/B2J_Graphics_aux">graphics aux</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inf10</td>
+      <td>Shapes</td>
+      <td>Inheritance</td>
+      <td><a href="https://github.com/Blockly2Java/Shapes">parent</a></td>
+      <td><a href="https://github.com/Blockly2Java/Shapes_template">template</a></td>
+      <td><a href="https://github.com/Blockly2Java/Shapes_solution">solution</a></td>
+      <!-- <td><a href="https://github.com/Blockly2Java/Shapes_tests">tests</a></td> -->
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Inf10</td>
+      <td>CoinCollector</td>
+      <td>Inheritance</td>
+      <td><a href="https://github.com/Blockly2Java/CoinCollector">parent</a></td>
+      <td><a href="https://github.com/Blockly2Java/CoinCollector_template">template</a></td>
+      <td><a href="https://github.com/Blockly2Java/CoinCollector_solution">solution</a></td>
+      <!-- <td><a href="https://github.com/Blockly2Java/CoinCollector_tests">tests</a></td> -->
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
